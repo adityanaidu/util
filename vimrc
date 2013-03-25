@@ -1,7 +1,7 @@
 
 set nocompatible
 set tags=./tags;$HOME
-set syntax on
+syntax on
 set incsearch
 set background=dark
 set autoindent
