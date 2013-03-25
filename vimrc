@@ -5,6 +5,7 @@ syntax on
 set incsearch
 set background=dark
 set autoindent
+set smartindent
 set showmatch
 set expandtab
 set tabstop=4
