@@ -1,4 +1,6 @@
 
+" Author Aditya Naidu
+
 set nocompatible
 set tags=./tags;$HOME
 syntax on
