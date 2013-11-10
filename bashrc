@@ -9,3 +9,6 @@ PS1='\u@\h \W: '
 HISTSIZE=9999
 HISTFILESIZE=99999
 HISTCONTROL=ignoredups
+
+## alias
+alias ls='ls --color=auto'
