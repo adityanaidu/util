@@ -17,3 +17,4 @@ set cmdheight=2
 set ruler
 set hlsearch
 set shiftwidth=4
+set t_Co=256
