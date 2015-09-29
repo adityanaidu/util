@@ -16,4 +16,4 @@ set history=500
 set cmdheight=2
 set ruler
 set hlsearch
-
+set shiftwidth=4
